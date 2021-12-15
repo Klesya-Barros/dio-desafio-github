@@ -100,3 +100,6 @@ Como falamos no tópico sobre git pull, esse comando vai mesclar, no seu reposit
 
 git merge <nome-da-branch>
 
+
+
+Fonte:https://blog.geekhunter.com.br/comandos-git-mais-utilizados/#10_Principais_comandos_Git

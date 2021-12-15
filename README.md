@@ -1,2 +1,2 @@
-# dio-desafio-github
-Repositório criado para o desafio de projeto. 
+# Dio-desafio-github
+10 Principais comandos do git. 
